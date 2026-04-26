@@ -16,4 +16,7 @@
 - **`.EVM` file format** — Parses and executes a custom `.EVM` bytecode format, a purpose-built instruction set for this VM.
 
 ---
+## How to use it
+
+- path to\esetvm2.exe path_to\hello.evm
 
